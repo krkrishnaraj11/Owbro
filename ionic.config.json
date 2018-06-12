@@ -1,0 +1,8 @@
+{
+  "name": "owbro-ios",
+  "app_id": "30313a49",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
